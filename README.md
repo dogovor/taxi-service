@@ -1,4 +1,4 @@
-#Example Web App 
+# Example Web App 
 :green_book: **in this project I show my skills in JavaCore, OOP, SOLID, OPTIONAL, RDBMS, JDBC, WEB**  
 
 ## About project
@@ -23,6 +23,8 @@ This web application supports registration and authentication of a driver. You'r
 -  initialize your database using init_db.sql file located in recources
 -  add your info to ConnectionUtil located in util to be able to connect to your database
 -  run this project using Tomcat's local server
+
+#### you can see working my project here [taxi-service-webapp.herokuapp.com]
 
 
 
